@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(binding.navView, navController);
 
-        // Генерация случайного времени от 20 до 30 минут
+        // Генерация случайного времени от 20 до 30 минутd
         Random random = new Random();
         int totalTimeInMillis = 45 * 60 * 1000;  // Переводим минуты в миллисекунды
 
