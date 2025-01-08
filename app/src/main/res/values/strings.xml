@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR-Транспорт</string>
+    <string name="title_home">Мой билет</string>
+    <string name="title_dashboard">История</string>
+    <string name="title_notifications">Оплата</string>
+    <string name="title_menu">Меню</string>
+</resources>
